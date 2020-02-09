@@ -1,0 +1,7 @@
+{
+  "name": "jiokaki",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
